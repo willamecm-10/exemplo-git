@@ -1,0 +1,9 @@
+*.log
+
+!hoje.log
+
+pasta1/
+
+pasta2/*[.css,.js,.html]
+
+*.java
